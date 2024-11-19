@@ -56,7 +56,7 @@ Contributions are welcome! If you have ideas to make this project better:
 This project is licensed under the MIT License. See [LICENSE](https://raw.githubusercontent.com/daviddvorszky/ClickAware/refs/heads/main/LICENSE) for details.
 
 ## 🌐 Live Demo
-Deployed URL: [ClickAware Demo](https://cdn.creazilla.com/digital-illustrations/1710888/coming-soon-launch-illustration-xl.jpeg)
+Deployed URL: [ClickAware Demo](https://daviddvorszky.github.io/ClickAware/)
 
 ## 📬 Feedback
 Found a bug or have suggestions? Feel free to open an issue or contact me on dv98david@gmail.com.
